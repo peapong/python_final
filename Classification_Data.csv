@@ -1,0 +1,15 @@
+Weather,Player,Stadium,Sport
+Sunny,More than 10,Outdoor,Football
+Rainny,Less than 5,Indoor,Batminton
+Sunny,Less than 5,Indoor,Batminton
+Windy,5 to 10,Indoor,Basketball
+Rainny,5 to 10,Indoor,Basketball
+Windy,More than 10,Outdoor,Football
+Rainny,More than 11,Indoor,Football
+Sunny,Less than 5,Outdoor,Batminton
+Windy,Less than 5,Indoor,Batminton
+Rainny,5 to 10,Outdoor,Football
+Windy,Less than 5,Indoor,Batminton
+Windy,2 to 4,Indoor,Batminton
+Sunny,5 to 10,Indoor,Basketball
+Sunny,5 to 10,Outdoor,Basketball
